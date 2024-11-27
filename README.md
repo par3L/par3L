@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @par3L, a college student currently studying Informatics at Mulawarman University, East Kalimantan, Indonesia.
-- 🌱 I’m currently on a learning path to become a full-stack developer but in addition to that, i'm delving into other fields like Machine Learning, Computer Network and Robotics.
-- 📫 You can contact me through my email which you can find in my profile
